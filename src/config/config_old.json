@@ -1,0 +1,8 @@
+{
+  "archivedir": "/tmp/example/archive",
+  "url": "https://192.168.80.11/blockchain/data/write",
+  "rtspstreams": [
+    {"eo": "rtsp://192.168.80.55:8554/test"}
+  ],
+  "portrange": "10000-10019"
+}
