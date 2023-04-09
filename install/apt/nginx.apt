@@ -1,0 +1,4 @@
+nginx
+libnginx-mod-rtmp
+apt-utils
+ffmpeg
